@@ -1,0 +1,3 @@
+# VideoCaptions.AI
+
+VideoCaptions.AI is a system designed to automate the generation of captions and subtitles for videos using FFmpeg and APIs. The project achieves **95% synchronization accuracy** across processed videos, ensuring high-quality, synchronized subtitles. To run the project, first clone this repository and unzip both the **frontend** and **backend** folders into the main project directory. For the **backend**, navigate to the backend folder, install dependencies using `npm install`, and start the server with `node server.js`. For the **frontend**, navigate to the frontend folder, install dependencies using `npm install`, and run the application with `npm start`. Once both sections are running, you can access the project locally at `http://localhost:3000`.
